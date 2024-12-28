@@ -90,4 +90,4 @@ Creación de dashboards interactivos para una visualización ejecutiva de los da
 1. **Clonar el repositorio**:
    ```bash
    git clone https://github.com/luisruro/data-analysis.git
-   cd data_analysis
+   cd supermarket_sales
