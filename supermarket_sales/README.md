@@ -89,5 +89,5 @@ Creación de dashboards interactivos para una visualización ejecutiva de los da
 ## **Cómo Usar Este Repositorio**
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/portafolio-analisis-datos.git
-   cd supermarket_sales
+   git clone https://github.com/luisruro/data-analysis.git
+   cd data_analysis
